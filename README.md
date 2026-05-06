@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danilo Lucas;
 - 👀 I’m interested in economics and agro innovation;
-- 🌱 I’m currently learning java and balance sheet analysis;
+- 🌱 I’m currently learning data analysis;
 - 💞️ I’m looking to collaborate on agro innovation and credit analysis;
 - 📫 How to reach me? danilo.shipax@gmail.com and https://www.linkedin.com/in/danilo-lucas-7193b466/;
 
